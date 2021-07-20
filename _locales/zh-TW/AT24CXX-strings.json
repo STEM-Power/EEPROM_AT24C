@@ -5,7 +5,6 @@
   "AT24CXX.write_byte|block": "在eeprom寄存位置 %addr|寫入一個字元組(byte) %dat",
   "AT24CXX.write_dword|block": "在eeprom寄存位置 %addr|寫入一個雙字元組(double word) %dat",
   "AT24CXX.write_word|block": "在eeprom寄存位置 %addr|寫入一個位元組(word) %dat",
-
   "AT24CXX|block": "AT24CXX",
   "{id:category}AT24CXX": "AT24CXX"
 }
