@@ -1,5 +1,5 @@
 {
-  "AT24CXX.read_byte|block": "在寄存位置 %addr|讀取一個位元組(word)",
+  "AT24CXX.read_byte|block": "在寄存位置讀取一個位元組(word) %addr",
   "AT24CXX.read_dword|block": "在寄存位置讀取一個雙字元組(double word) %addr",
   "AT24CXX.read_word|block": "在寄存位置讀取一個字元組(byte) %addr",
   "AT24CXX.write_byte|block": "在eeprom寄存位置 %addr|寫入一個字元組(byte) %dat",
