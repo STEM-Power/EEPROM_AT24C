@@ -1,5 +1,4 @@
 {
-  "AT24CXX.write_word|block": "在eeprom寄存位置 %addr|寫入一個位元組(word) %dat",
   "AT24CXX": "AT24CXX EEPROM microbit makecode擴充。\nFrom microbit/micropython Chinese community.\nhttp://www.micropython.org.cn\n\nAT24CXX block",
   "AT24CXX.read_byte": "在指定的寄存位置讀取一個字元組(byte)",
   "AT24CXX.read_byte|param|addr": "eeprom 寄存位置, eg: 1",
