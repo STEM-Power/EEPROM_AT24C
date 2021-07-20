@@ -1,0 +1,19 @@
+{
+  "AT24CXX.write_word|block": "在eeprom寄存位置 %addr|寫入一個位元組(word) %dat",
+  "AT24CXX": "AT24CXX EEPROM microbit makecode擴充。\nFrom microbit/micropython Chinese community.\nhttp://www.micropython.org.cn\n\nAT24CXX block",
+  "AT24CXX.read_byte": "在指定的寄存位置讀取一個字元組(byte)",
+  "AT24CXX.read_byte|param|addr": "eeprom 寄存位置, eg: 1",
+  "AT24CXX.read_dword": "在指定的寄存位置讀取一個雙字元組(double word)",
+  "AT24CXX.read_dword|param|addr": "eeprom 寄存位置, eg: 4",
+  "AT24CXX.read_word": "在指定的寄存位置讀取一個位元組(word)",
+  "AT24CXX.read_word|param|addr": "eeprom 寄存位置, eg: 2",
+  "AT24CXX.write_byte": "在指定的寄存位置讀取一個字元組(byte)",
+  "AT24CXX.write_byte|param|addr": "eeprom 寄存位置, eg: 1",
+  "AT24CXX.write_byte|param|dat": "寫入的數值, eg: 5",
+  "AT24CXX.write_dword": "在指定的寄存位置讀取一個雙字元組(double word)",
+  "AT24CXX.write_dword|param|addr": "eeprom 寄存位置, eg: 4",
+  "AT24CXX.write_dword|param|dat": "寫入的數值, eg: 7",
+  "AT24CXX.write_word": "在指定的寄存位置讀取一個位元組(word)",
+  "AT24CXX.write_word|param|addr": "eeprom 寄存位置, eg: 2",
+  "AT24CXX.write_word|param|dat": "寫入的數值, eg: 6"
+}
