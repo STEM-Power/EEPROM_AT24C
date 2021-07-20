@@ -8,7 +8,6 @@
     },
     "files": [
         "README.md",
-        "_locales/zh/AT24CXX-strings.json",
         "_locales/zh-TW/AT24CXX-strings.json",
         "_locales/zh-TW/AT24CXX-jsdoc-strings.json",
         "AT24CXX.ts"
